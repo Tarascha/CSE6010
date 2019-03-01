@@ -5,3 +5,5 @@ Assignment2 - Graph(DFS) and IO exercise
 Assignment3 - Queue simulator Library implementation    
 Assignment4 - Simple parallel programming    
 Final Project - Simple Recommendation Application    
+
+Please refer to the PDF file or README in each folder for detailed discription
